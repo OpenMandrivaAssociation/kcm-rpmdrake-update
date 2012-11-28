@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   kcm-rpmdrake-update-1.0.tar.gz: !!python/unicode '65b816c30848c746711c5157066a10aaa896c0fb'
+sources:
+  kcm-rpmdrake-update-1.0.tar.gz: 1d7980bb524e3d169559bdf2dc5f3961b72fb462
