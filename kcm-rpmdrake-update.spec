@@ -4,7 +4,7 @@ License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching ROSA Update GUI
 Version:        1.0
-Release:        7
+Release:        8
 BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
